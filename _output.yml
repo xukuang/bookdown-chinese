@@ -29,3 +29,4 @@ bookdown::pdf_book:
   quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 bookdown::epub_book:
   stylesheet: css/style.css
+bookdown::word_document2: default
